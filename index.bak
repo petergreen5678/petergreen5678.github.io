@@ -32,11 +32,13 @@
 
 
   <div class="col-lg-5">
-Another paragraph<br>
+<p>Some more stuff</p>
 <img src="images/peter.jpg" width="100"><br><br>
 <ul>
-<li><a href="subs/travels.html">Travels</a></li>
+<li><a href="subs/research.html">Research</a></li>
+<li><a href="subs/research.html">Papers</a></li>
 <li><a href="subs/software.html">Software</a></li>
+<li><a href="subs/travels.html">Travels</a></li>
 </ul>
 
 </div>
