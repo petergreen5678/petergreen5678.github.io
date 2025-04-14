@@ -13,7 +13,7 @@
 </div>
 
   <div class="row">
-  <div class="col-xs-12">
+  <div class="col-xs-7">
 <p>Bootstrap version 2</p>
 
 
@@ -27,7 +27,13 @@
 <li>graphical models</li>
 </ul>
 
-</div></div>
+</div>
+  <div class="col-xs-5">
+<p>Another paragraph</p>
+
+
+</div>
+</div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
   </body>
