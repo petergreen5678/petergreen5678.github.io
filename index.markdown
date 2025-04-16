@@ -1,25 +1,34 @@
 
 # Hello, world! first go with JellyPad and Markdown
 
-
----
 I am interested in
 
-- Bayesian inference in complex stochastic systems
-- Markov chain Monte Carlo methodology
-- forensic genetics
-- Bayesian nonparametrics
-- graphical models
----
+*   Bayesian inference in complex stochastic systems
+    
+*   Markov chain Monte Carlo methodology
+    
+*   forensic genetics
+    
+*   Bayesian nonparametrics
+    
+*   graphical models
+    
 
 # Some more stuff
 
 ![alt text](images/peter.jpg)
-1. [Research](subs/research.html)
-2. [Papers](subs/papers.html)
-3. [Software](subs/software.html)
-4. [Travels](subs/travels.html)
 
+<img%20src=%22images/peter.jpg%22%20width=%22100%22>
+
+
+1.  [Research](subs/research.html)
+    
+2.  [Papers](subs/papers.html)
+    
+3.  [Software](subs/software.html)
+    
+4.  [Travels](subs/travels.html)
+    
 
 # Feel free to add content and custom Front Matter to this file.
 
