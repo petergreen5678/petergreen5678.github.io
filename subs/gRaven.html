@@ -19,7 +19,7 @@
 
 <img src="https://petergreen5678.github.io/images/raven.jpg" width=30%>
 
-<small>Back to <a href="https://petergreen5678.github.io/">Home</a></small>
+<p><small>Back to <a href="https://petergreen5678.github.io/">Home</a></small></p>
 
 <div class="row">
 <div class="col-lg-12">
@@ -27,18 +27,22 @@
 Wrappers for functions in the ‘gRain’ package to emulate some ‘RHugin’ functionality, allowing the building of Bayesian networks consisting of discrete chance nodes incrementally, through adding nodes, edges and conditional probability tables, the setting of evidence, whether ‘hard’ (boolean) or ‘soft’ (likelihoods), and querying marginal probabilities and normalizing constants. Computations will typically not be so fast as they are with ‘RHugin’, but this package should assist users without access to ‘Hugin’ to use code written to use ‘RHugin’. I am grateful to Therese Graversen for her contributions, especially the function map.configurations, and to Søren Højsgaard for enhancements to his gRain package that improve the performance of this package.
 
 Download and install from CRAN by typing
+<pre>
 
-install.packages("gRaven")
-
+<code>install.packages("gRaven")</code>
+</pre>
 ; for possibly later development versions, download and install from GitHub by typing
+<pre>
 
-devtools::install_github("petergreen5678/gRaven")
-
+<code>devtools::install_github("petergreen5678/gRaven")</code>
+</pre>
 Then, to see a simple example in action, type
+<pre>
 
-<pre><code>&lt;p&gt;library(gRaven)&lt;/p&gt;
-&lt;p&gt;demo('chest')&lt;/p&gt
-</code></pre>
+<code>library(gRaven)
+demo('chest')
+</code>
+</pre>
 
 </div>
 </div>
