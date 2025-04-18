@@ -28,10 +28,10 @@ Wrappers for functions in the ‘gRain’ package to emulate some ‘RHugin’ f
 
 Download and install from CRAN by typing
 <pre>
-
 <code>install.packages("gRaven")</code>
 </pre>
-; for possibly later development versions, download and install from GitHub by typing
+, or go to CRAN explicitly at 
+<a href="https://cran.r-project.org/package=gRaven">https://cran.r-project.org/package=gRaven</a>; for possibly later development versions, download and install from GitHub by typing
 <pre>
 
 <code>devtools::install_github("petergreen5678/gRaven")</code>
