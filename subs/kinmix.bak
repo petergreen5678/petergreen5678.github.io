@@ -19,9 +19,8 @@
 
 <img src="https://petergreen5678.github.io/images/relationshipdag.jpg" width=35%>
 
-<p>
-Back to&nbsp;<a href="https://petergreenweb.wordpress.com/">Home</a>&nbsp;|&nbsp;<a href="https://petergreenweb.wordpress.com/research/">Research</a>| <a href="https://petergreenweb.wordpress.com/software/">Software</a>
-</p>
+
+<p><small>Back to <a href="../index.html">Home</a> | <a href="./software.html">Software</a></p>
 
 <hr>
 
@@ -97,7 +96,7 @@ See <a href="https://cran.r-project.org/web/packages/pcrsim/index.html">here</a>
 
 <hr>
 
-<h3>gRain version (KinMixLite)</h3>
+<h3 id="KML">gRain version (KinMixLite)</h3>
 KinMixLite is available on CRAN: https://cran.r-project.org/web/packages/KinMixLite/index.html
 so can be installed using <code>install.packages("KinMixLite")</code>
 
