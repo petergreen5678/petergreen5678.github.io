@@ -17,18 +17,20 @@
   <h1>KinMix and KinMixLite</h1>
 </div>
 
+<img src="https://petergreen5678.github.io/images/relationshipdag.jpg" width=35%>
 
-<small>Back to&nbsp;<a href="https://petergreenweb.wordpress.com/">Home</a>&nbsp;|&nbsp;<a href="https://petergreenweb.wordpress.com/research/">Research</a>| <a href="https://petergreenweb.wordpress.com/software/">Software</a>
+<p>
+Back to&nbsp;<a href="https://petergreenweb.wordpress.com/">Home</a>&nbsp;|&nbsp;<a href="https://petergreenweb.wordpress.com/research/">Research</a>| <a href="https://petergreenweb.wordpress.com/software/">Software</a>
+</p>
 
 <hr>
 
 <h3>Hugin version (KinMix)</h3>
 
-<small>
 <table>
 <tbody>
 <tr>
-<td width="35%">
+<td>
 Install:
 R
 Rtools toolchain (Windows only)
@@ -87,6 +89,14 @@ See <a href="https://cran.r-project.org/web/packages/pcrsim/index.html">here</a>
 
 <hr>
 
+<h3>Once installed, to get started....</h3>
+<pre>
+<code>library(KinMix)</code>
+<code>demo(KMdemo)</code>
+</pre>
+
+<hr>
+
 <h3>gRain version (KinMixLite)</h3>
 KinMixLite is available on CRAN: https://cran.r-project.org/web/packages/KinMixLite/index.html
 so can be installed using <code>install.packages("KinMixLite")</code>
@@ -96,7 +106,7 @@ If this fails because of missing dependencies, the full procedure is as below:
 <table>
 <tbody>
 <tr>
-<td width="35%">
+<td width="50%">
 
 Install:
 R

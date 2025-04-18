@@ -17,74 +17,83 @@
   <h1>KinMix and KinMixLite</h1>
 </div>
 
-<img src="https://petergreen5678.github.io/images/relationshipdag.jpg" width=100%>
+<img src="https://petergreen5678.github.io/images/relationshipdag.jpg" width=35%>
 
-<small>Back to&nbsp;<a href="https://petergreenweb.wordpress.com/">Home</a>&nbsp;|&nbsp;<a href="https://petergreenweb.wordpress.com/research/">Research</a>| <a href="https://petergreenweb.wordpress.com/software/">Software</a>
+<p>
+Back to&nbsp;<a href="https://petergreenweb.wordpress.com/">Home</a>&nbsp;|&nbsp;<a href="https://petergreenweb.wordpress.com/research/">Research</a>| <a href="https://petergreenweb.wordpress.com/software/">Software</a>
+</p>
 
 <hr>
 
 <h3>Hugin version (KinMix)</h3>
 
-<small>
-<table>
+<table class="table table-bordered">
 <tbody>
 <tr>
-<td width="35%">
+<td class="align-top" class="align-top">
 Install:
 R
 Rtools toolchain (Windows only)
 Hugin Expert
 and then within R install packages as follows:</td>
-<td></td>
+<td class="align-top"></td>
 </tr>
 <tr>
-<td>Install devtools</td>
-<td><code>install.packages("devtools")</code></td>
+<td class="align-top" class="align-top">Install devtools</td>
+<td class="align-top" class="align-top"><code>install.packages("devtools")</code></td>
 </tr>
 <tr>
-<td>Install dependencies of RHugin</td>
-<td><pre><code>if (!require("BiocManager")) install.packages("BiocManager")
+<td class="align-top" class="align-top">Install dependencies of RHugin</td>
+<td class="align-top" class="align-top"><pre><code>if (!require("BiocManager")) install.packages("BiocManager")
 BiocManager::install(c("graph","Rgraphviz"))
 </code></pre></td>
 </tr>
 <tr>
-<td>Install <b>RHugin</b></td>
+<td class="align-top" class="align-top">Install <b>RHugin</b></td>
 
-<td><code>devtools::install_github("huginexpert/rhugin")</code></td>
-
-</tr>
-<tr>
-<td>If necessary, install dependencies of DNAmixtures</td>
-<td><code>install.packages(c("Rsolnp", "Matrix", "numDeriv"))
+<td class="align-top" class="align-top"><code>devtools::install_github("huginexpert/rhugin")</code></td>
 
 </tr>
 <tr>
-<td>Install <b>DNAmixtures</b></td>
-<td><code>install.packages("DNAmixtures", repos = "http://dnamixtures.r-forge.r-project.org/",
+<td class="align-top" class="align-top">If necessary, install dependencies of DNAmixtures</td>
+<td class="align-top" class="align-top"><code>install.packages(c("Rsolnp", "Matrix", "numDeriv"))
+
+</tr>
+<tr>
+<td class="align-top" class="align-top">Install <b>DNAmixtures</b></td>
+<td class="align-top" class="align-top"><code>install.packages("DNAmixtures", repos = "http://dnamixtures.r-forge.r-project.org/",
 type = "source", INSTALL_opts = "--no-multiarch")</code></td>
 </tr>
 <tr>
-<td>Install dependencies of KinMix</td>
-<td><code>install.packages(c("ribd","statnet.common"))
+<td class="align-top" class="align-top">Install dependencies of KinMix</td>
+<td class="align-top" class="align-top"><code>install.packages(c("ribd","statnet.common"))
 </code></td>
 </tr>
 <tr>
-<td>If simulation of epg's is required, install pcrsim package and its dependencies, especially gWidgets</td>
-<td>
+<td class="align-top" class="align-top">If simulation of epg's is required, install pcrsim package and its dependencies, especially gWidgets</td>
+<td class="align-top" class="align-top">
 See <a href="https://cran.r-project.org/web/packages/pcrsim/index.html">here</a></td>
 </tr>
 <tr>
-<td>Install <b>KinMix</b></td>
-<td><code>devtools::install_github("petergreen5678/KinMix")
+<td class="align-top" class="align-top">Install <b>KinMix</b></td>
+<td class="align-top" class="align-top"><code>devtools::install_github("petergreen5678/KinMix")
 </code></td>
 </tr>
 <tr>
-<td>OR, on Windows, in case only have Hugin for one architecture</td>
-<td><code>devtools::install_github("petergreen5678/KinMix",INSTALL_opts="--no-multiarch")
+<td class="align-top" class="align-top">OR, on Windows, in case only have Hugin for one architecture</td>
+<td class="align-top" class="align-top"><code>devtools::install_github("petergreen5678/KinMix",INSTALL_opts="--no-multiarch")
 </code></td>
 </tr>
 </tbody>
 </table>
+
+<hr>
+
+<h3>Once installed, to get started....</h3>
+<pre>
+<code>library(KinMix)</code>
+<code>demo(KMdemo)</code>
+</pre>
 
 <hr>
 
@@ -94,35 +103,35 @@ so can be installed using <code>install.packages("KinMixLite")</code>
 
 If this fails because of missing dependencies, the full procedure is as below:
 
-<table>
+<table class="table table-bordered">
 <tbody>
 <tr>
-<td width="35%">
+<td class="align-top" class="align-top" width="50%">
 
 Install:
 R
 Rtools toolchain (Windows only)
 and then within R install packages as follows:</td>
-<td></td>
+<td class="align-top"></td>
 </tr>
 <tr>
-<td>Install devtools, etc</td>
-<td><code>install.packages(c("devtools", "methods", "rlang"))</code></td>
+<td class="align-top">Install devtools, etc</td>
+<td class="align-top"><code>install.packages(c("devtools", "methods", "rlang"))</code></td>
 </tr>
 <tr>
-<td>Install dependencies of gRain and <b>gRain</b> itself</td>
-<td><code>if (!require("BiocManager")) install.packages("BiocManager")
+<td class="align-top">Install dependencies of gRain and <b>gRain</b> itself</td>
+<td class="align-top"><code>if (!require("BiocManager")) install.packages("BiocManager")
 BiocManager::install(c("graph","Rgraphviz"))
 BiocManager::install(c("gRbase","gRain"), force=TRUE)
 </code></td>
 </tr>
 <tr>
-<td>If simulation of epg's is required, pcrsim package and its dependencies, especially gWidgets</td>
-<td>See <a href="https://cran.r-project.org/web/packages/pcrsim/index.html">here</a></td>
+<td class="align-top">If simulation of epg's is required, pcrsim package and its dependencies, especially gWidgets</td>
+<td class="align-top">See <a href="https://cran.r-project.org/web/packages/pcrsim/index.html">here</a></td>
 </tr>
 <tr>
-<td>Install <b>KinMixLite</b> (this automatically includes installing <b>gRaven</b>, <b>DNAmixturesLite</b> and dependencies if not already present)</td>
-<td><code>install.packages("KinMixLite")</code></td>
+<td class="align-top">Install <b>KinMixLite</b> (this automatically includes installing <b>gRaven</b>, <b>DNAmixturesLite</b> and dependencies if not already present)</td>
+<td class="align-top"><code>install.packages("KinMixLite")</code></td>
 </tr>
 </tbody>
 </table>
