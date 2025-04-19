@@ -1,0 +1,453 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Peter Green Bootstrap 9</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+  </head>
+
+  <body>
+
+<div class="container-fluid">
+
+<div class="page-header">
+  <h1>Papers</h1>
+</div>
+
+<p>Back to <a href="../../index.html">Home</a> | <a href="../research.html">Research</a> </p>
+
+
+<hr><h4>Recently published</h4><a name="Recent"></a><ul class="list-group">
+
+<ul class="list-group">
+
+<li class="list-group-item">
+<a href="https://rss.org.uk/RSS/media/File-library/News/2022/Report_Healthcare_serial_killer_or_coincidence_statistical_issues_in_investigation_of_suspected_medical_misconduct_Sept_2022_FINAL.pdf"><b>Healthcare serial killer or coincidence? Statistical issues in investigation of suspected medical misconduct</b></a>, by the RSS Statistics and the Law section, working group chaired by Peter J. Green (2022) (pdf). Also <a href="https://rss.org.uk/RSS/media/File-library/News/2022/Summary_Healthcare_serial_killer_or_coincidence_statistical_issues_in_investigation_of_suspected_medical_misconduct_September_2022_FINAL.pdf">Summary version</a>. <a href="https://petergreenweb.wordpress.com/hsk-report-errata">Errata</a>.
+</li>
+
+<li class="list-group-item">
+<a href="https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12498"><b>Inference about complex relationships using peak height data from DNA mixtures</b></a>, by Peter J. Green and Julia Mortera (published online 7 July 2021, open access); also on <a href="http://arxiv.org/abs/2005.09365">arXiv</a>. <i>Applied Statistics</i>, <b>70</b>, 1049-1082 (2021). Associated R package and User guide: <a href="https://petergreenweb.wordpress.com/kinmix2-0/">KinMix</a>.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/GreenMorteraPrieto.pdf">
+<b>Casework applications of probabilistic genotyping methods for DNA mixtures that allow relationships between contributors</b></a>, by Peter J. Green, Julia Mortera and Lourdes Prieto (2021), <i>Forensic Science International: Genetics</i>, vol <b>52</b>, paper 102482; also on <a href="http://arxiv.org/abs/2007.12688">arXiv</a>.
+</li>
+
+<li class="list-group-item">
+<a href="https://petergreenweb.files.wordpress.com/2020/05/verity-comment-reformatted.pdf"><b>COVID-19 and the difficulty of inferring epidemiological parameters from clinical data</b></a>, by Simon N. Wood , Ernst C. Wit, Matteo Fasiolo and Peter J. Green (2020). Published in <a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30437-0/fulltext"><em>The Lancet: Infectious Diseases</em></a>, 28 May 2020. <a href="https://petergreenweb.files.wordpress.com/2020/05/verity-comment-supplementary-1.pdf">Supplementary material</a>. <a href="https://arxiv.org/abs/2004.14482">https://arxiv.org/abs/2004.14482</a> includes also longer original version.
+</li>
+
+<li class="list-group-item">
+<a href="https://doi.org/10.1093/biomet/asz053"><b>Analysis of grouped data using conjugate generalized linear
+mixed models</b></a>, by Jarod Y.L. Lee, Peter J. Green, Louise M. Ryan (2020) (pdf). <em>Biometrika</em>, <b>107</b>, 231-237. https://doi.org/10.1093/biomet/asz053. On ArXiv:&nbsp;<a href="https://arxiv.org/abs/1709.06288">https://arxiv.org/abs/1709.06288</a>.
+</li>
+
+<li class="list-group-item">
+<a href="https://doi.org/10.1111/rssc.12394">
+<b>Bayesian protein sequence and structure alignment</b></a>, by
+Christopher J. Fallaize, Peter J. Green, Kanti V. Mardia and Stuart Barber.
+<em>Journal of the Royal Statistical Society</em> (C), <b>69</b>, 301-325 (2020). ArXiv:&nbsp;<a href="http://arxiv.org/abs/1404.1556">http://arxiv.org/abs/1404.1556</a>.
+<a href="https://doi.org/10.1111/rssc.12394">https://doi.org/10.1111/rssc.12394</a>
+</li>
+
+<li class="list-group-item">
+<a href="http://arxiv.org/abs/1705.01505"><b>Introduction to finite mixtures</b></a>, by Peter J. Green (2017). On ArXiv:&nbsp;<a href="http://arxiv.org/abs/1705.01505">http://arxiv.org/abs/1705.01505</a>. Introductory chapter in the <a href="https://www.crcpress.com/Handbook-of-Mixture-Analysis/Fruhwirth-Schnatter-Celeux-Robert/p/book/9781498763813">Handbook of Mixture Analysis</a> (2019).
+</li>
+
+<li class="list-group-item">
+<strong><a href="https://royalsocietypublishing.org/doi/10.1098/rsbm.2017.0039">Julian Ernst Besag, 26 March 1945 ? 6 August 2010, a biographical memoir</a></strong>, by Peter J. Diggle, Peter J. Green and Bernard W. Silverman. https://doi.org/10.1098/rsbm.2017.0039. On arXiv:&nbsp;<a href="https://arxiv.org/abs/1711.10262">https://arxiv.org/abs/1711.10262</a>.
+</li>
+
+<li class="list-group-item">
+<a href="https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asx072/4724816?guestAccessKey=ef8b771a-6220-4857-b953-7e2118b7fbdd"><strong>A structural Markov property for decomposable graph laws that allows control of clique intersections</strong></a>, by Peter J. Green and Alun Thomas (updated October 2017) . Open access in&nbsp;<em>Biometrika,&nbsp;</em><strong>105</strong>, 19-29 (2018). On arXiv:&nbsp;<a href="http://arxiv.org/abs/1705.00554">http://arxiv.org/abs/1705.00554</a>.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/DNAmixPaternityR1.pdf"><b>Paternity testing and other inference about relationships from DNA mixtures</b></a>, by Peter J. Green and Julia Mortera (revised January 2017).&nbsp;<i>Forensic Science International: Genetics</i>.&nbsp;<a href="http://dx.doi.org/10.1016/j.fsigen.2017.02.001">http://dx.doi.org/10.1016/j.fsigen.2017.02.001</a>. On ArXiv:&nbsp;<a href="http://arxiv.org/abs/1609.09638">http://arxiv.org/abs/1609.09638</a>.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/Green-MardiaFestschrift.pdf"><b>MAD-Bayes matching and alignment for labelled and unlabelled configurations</b></a>, by Peter J. Green (2015). In&nbsp;<i>Geometry driven statistics</i>, edited by Ian L. Dryden and John T. Kent, chapter 19, pp 377-390. Wiley, Chichester.
+</li>
+
+<li class="list-group-item">
+<a href="http://link.springer.com/article/10.1007/s11222-015-9574-5"><b>Bayesian computation: a summary of the current state, and samples backwards and forwards</b></a>, by Peter J. Green, Krzysztof Latuszynski, Marcelo Pereyra and Christian P. Robert.&nbsp;<i>Statistics and Computing</i>,&nbsp;<b>25</b>, 835-862 (2015) (open access). doi: 10.1007/s11222-015-9574-5. On ArXiv:&nbsp;<a href="http://arxiv.org/abs/1502.01148">http://arxiv.org/abs/1502.01148</a>.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/CGLMDiscussion.pdf"><b>Discussion of paper by Cowell, Graversen, Lauritzen and Mortera</b></a>,&nbsp;<i>Applied Statistics</i>&nbsp;<b>64</b>, Part 1, page 41 (2015).
+</li>
+
+<li class="list-group-item">
+<a href="http://projecteuclid.org/euclid.aos/1410440627http://projecteuclid.org/euclid.aos/1410440627"><b>The Bernstein-von Mises theorem and non-regular models</b></a>, by Natalia Bochkina and Peter J. Green (2014).&nbsp;<i>Annals of Statistics</i>,&nbsp;<b>42</b>, 1850-1878. DOI: 10.1214/14-AOS1239. Also on ArXiv:&nbsp;<a href="http://arxiv.org/abs/1211.3434">http://arxiv.org/abs/1211.3434</a>
+</li>
+
+<li class="list-group-item">
+<a href="https://academic.oup.com/biomet/article/100/1/91/192888/Sampling-decomposable-graphs-using-a-Markov-chain"><b>Sampling decomposable graphs using a Markov chain on junction trees</b></a>, by Peter J. Green and Alun Thomas (2013).&nbsp;<i>Biometrika</i>,&nbsp;<b>100</b>&nbsp;(1): 91-110; doi: 10.1093/biomet/ass052. On ArXiv:&nbsp;<a href="http://arxiv.org/abs/1104.4079">http://arxiv.org/abs/1104.4079</a>.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/Logicoil.pdf"><b>Logicoil: Multi-state prediction of coiled-coil oligomeric state</b></a>, by Thomas. L. Vincent, Peter J. Green and Derek N. Woolfson (2013).&nbsp;<i>Bioinformatics</i>,&nbsp;<b>29</b>, 69-76, doi: 10.1093/bioinformatics/bts648 .
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/HastieGreenR1.pdf"><b>Model choice using reversible jump Markov chain Monte Carlo</b></a>, by David Hastie and Peter J. Green (2012).&nbsp;<i>Statistica Neerlandica</i>,&nbsp;<b>66</b>, 309-338. doi:10.1111/j.0039-0402.2011.00516.x
+</li>
+
+<hr><h4>Inference in complex stochastic systems</h4><a name="Complex"></a><ul class="list-group">
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/Critique/paper.pdf"><b>Identifying influential model choices in Bayesian hierarchical models</b></a>&nbsp;by Ida Scheel, Peter J. Green and Jonty Rougier (2011).&nbsp;<i>Scandinavian Journal of Statistics</i>,&nbsp;<b>38</b>, 529-550.&nbsp;<a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9469.2010.00717.x/full">Online version</a>.&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/Critique/index.html">Supplementary information</a>. doi: 10.1111/j.1467-9469.2010.00717.x
+</li>
+
+<li class="list-group-item">
+<a href="http://bioinformatics.oxfordjournals.org/content/early/2011/05/16/bioinformatics.btr299.full.pdf?keytype=ref&amp;ijkey=hvjarADcpeih4GK"><b>SCORER 2.0: An algorithm for distinguishing parallel dimeric and trimeric coiled-coil sequences</b></a>, by Craig Armstrong, Thomas Vincent, Dek Woolfson and Peter J. Green (2011).&nbsp;<i>Bioinformatics</i>&nbsp;<b>27</b>&nbsp;(14): 1908-1914; doi: 10.1093/bioinformatics/btr299.&nbsp;<a href="http://bioinformatics.oxfordjournals.org/content/early/2011/05/16/bioinformatics.btr299.abstract?keytype=ref&amp;ijkey=hvjarADcpeih4GK">Abstract</a>.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/GreenCDP.pdf"><b>Colouring and breaking sticks: random distributions and heterogeneous clustering</b></a>, by Peter J. Green (2010). In&nbsp;<i>Probability and Mathematical Genetics: Papers in Honour of Sir John Kingman</i>, edited by N. H. Bingham and C. M. Goldie, chapter 13, pages 319-344, Cambridge University Press.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/GreenMardiaNyirongoRuffieux.pdf"><b>Bayesian modelling for matching and alignment of biomolecules</b></a>, by Peter J Green, Kanti V Mardia, Vysaul B Nyirongo and Yann Ruffieux (2010). The Oxford Handbook of Applied Bayesian Analysis, pp. 27-50. Oxford University Press
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/jtenum.pdf"><b>Enumerating the junction trees of a decomposable graph</b></a>, by Alun Thomas and Peter J. Green (2009).&nbsp;<i>Journal of Computational and Graphical Statistics</i>,&nbsp;<b>18</b>, 930-940; doi:&nbsp;<a href="http://dx.doi.org/10.1198/jcgs.2009.07129">10.1198/jcgs.2009.07129</a>.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/perturbations.pdf"><b>Enumerating the decomposable neighbours of a decomposable graph under a simple perturbation scheme</b></a>, by Alun Thomas and Peter J. Green (2009).<i>Computational Statistics and Data Analysis</i>,&nbsp;<b>53</b>, 1232-1238; doi:&nbsp;<a href="http://dx.doi.org/10.1016/j.csda.2008.10.029">10.1016/j.csda.2008.10.029</a>.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/AoAS235.pdf"><b>Sensitivity of inferences in forensic genetics to assumptions about founding genes</b></a>, by Peter J. Green and Julia Mortera (2009),&nbsp;<i>Annals of Applied Statistics</i>,&nbsp;<b>3</b>, 731-763. doi:&nbsp;<a href="http://dx.doi.org/10.1214/09-AOAS235">10.1214/09-AOAS235</a>. On ArXiv:&nbsp;<a href="http://arxiv.org/abs/0908.2862">http://arxiv.org/abs/0908.2862</a>.<a href="https://people.maths.bris.ac.uk/~mapjg/Sensitivity">Supplementary information</a>.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/RuffieuxGreen.pdf"><b>Alignment of multiple configurations using hierarchical models</b></a>&nbsp;by Yann Ruffieux and Peter J. Green (2009).&nbsp;<i>Journal of Computational and Graphical Statistics</i>,&nbsp;<b>18</b>, 756-773. doi:<a href="http://dx.doi.org/10.1198/jcgs.2009.07048">10.1198/jcgs.2009.07048</a>.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/HoskingGWAS.pdf"><b>Inference from genome-wide association studies using a novel Markov model</b></a>&nbsp;by Fay J. Hosking, Jonathan A. C. Sterne, George Davey Smith, and Peter J. Green (2008).&nbsp;<i>Genetic Epidemiology</i>&nbsp;<b>32</b>, 497-504 (published online 26 March 2008). doi:&nbsp;<a href="http://dx.doi.org/10.1002/gepi.20322">10.1002/gepi.20322</a>.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/redshift.pdf"><b>A Bayesian hierarchical model for photometric redshifts</b></a>&nbsp;by Merrilee Hurn, Peter J. Green and Fahimah Al-Awadhi (2007), revised version appears in&nbsp;<i>Applied Statistics</i>,&nbsp;<b>57</b>, 487-504 (2008).
+</li>
+
+<li class="list-group-item">
+<a href="http://www.biomedcentral.com/1471-2105/8/257"><b>Bayesian refinement of protein functional site matching</b></a>&nbsp;by Kanti V Mardia, Vysaul B Nyirongo, Peter J Green, Nicola D Gold and David R Westhead (2007),&nbsp;<a href="http://www.biomedcentral.com/1471-2105/8/257"><i>BMC Bioinformatics</i>,&nbsp;<b>8</b>:257</a>; doi:&nbsp;<a href="http://dx.doi.org/10.1186/1471-2105-8-257">10.1186/1471-2105-8-257</a>.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/LauGreenJCGS.pdf"><b>Bayesian model-based clustering procedures</b></a>&nbsp;by John W. Lau and Peter J. Green (2007), (2.7Mb).&nbsp;<a href="http://fiordiliji.asa.catchword.org/vl=1207126/cl=14/nw=1/rpsv/cw/asa/10618600/v16n3/s2/p526"><i>Journal of Computational and Graphical Statistics</i>,&nbsp;<b>16</b>, 526-558</a>(2007).&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/papers/LauGreenJCGSsmall.pdf">Smaller version</a>&nbsp;(1.1Mb, omitting some figures).
+</li>
+
+<li class="list-group-item">
+<a href="http://arxiv.org/abs/math.ST/0503712"><b>Bayesian alignment using hierarchical models, with applications in protein bioinformatics</b></a>, by P. J. Green and K. V. Mardia (2006).&nbsp;<a href="http://biomet.oxfordjournals.org/cgi/content/abstract/93/2/235?ijkey=5hIKZJBI2Mc4SwU&amp;keytype=ref"><i>Biometrika</i>&nbsp;<b>93</b>, 235-254 (2006)</a>.&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/abstracts/align.html">Abstract</a>. doi:10.1093/biomet/93.2.235 . Archived at arxiv.org/abs/math.ST/0503712.&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/Align/index.html">Supplementary information</a>.
+</li>
+
+<li class="list-group-item">
+<a href="http://www.bgx.org.uk/papers/BGXpaperSubmit.pdf"><b>BGX: a fully Bayesian gene expression index for Affymetrix GeneChip data</b></a>by Hein, A.-M.K., Richardson, S., Causton, H.C., Ambler, G.K., Green, P.J. (2005),<a href="http://biostatistics.oxfordjournals.org/cgi/content/abstract/6/3/349"><i>Biostatistics</i>,&nbsp;<b>6</b>, 349-373</a>. doi:10.1093/biostatistics/kxi016. Also:&nbsp;<a href="http://www.bgx.org.uk/papers/BGXpaperSubmit.zip">zipped postscript paper</a>&nbsp;<a href="http://www.bgx.org.uk/software.html">Software</a>
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/IDHMM.pdf"><b>Further hidden Markov model cryptanalysis</b></a>&nbsp;by P.J. Green, R. Noad, and N.P. Smart (2005). In Cryptographic Hardware and Embedded Systems - CHES 2005,<a href="http://www.springerlink.com/content/dtaq4b65qaggh8lk/"><i>Lecture Notes in Computer Science</i>,&nbsp;<b>3659</b>, 61-74</a>. doi:10.1007/11545262_5.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/slides/RS.pps"><b>Structure and uncertainty</b></a>, lecture given at Royal Society, 10 July 2003; Powerpoint show.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/SBCvdL.pdf"><b>Contribution to discussion</b>&nbsp;of paper by Spiegelhalter, Best, Carlin and van der Linde</a>&nbsp;on Bayesian measures of model complexity and fit.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/LaurRich.pdf"><b>Contribution to discussion</b>&nbsp;of paper by Lauritzen and Richardson</a>&nbsp;on Chain graph models and their causal interpretations.
+</li>
+
+<li class="list-group-item">
+<a href="http://www.stats.bris.ac.uk/~peter/papers/nott.pdf"><b>Bayesian variable selection and the Swendsen-Wang algorithm</b></a>&nbsp;(with David Nott).&nbsp;<i>Journal of Computational and Graphical Statistics</i>,&nbsp;<b>13</b>, 141-157 (2004).<a href="https://people.maths.bris.ac.uk/~mapjg/abstracts/bvsswang.html">Abstract</a>.
+</li>
+
+<li class="list-group-item">
+<a href="http://www.stats.bris.ac.uk/~peter/papers/GiudiciGreenTarantola.pdf"><b>Efficient model determination for discrete graphical models</b></a> (with Paolo Giudici and Claudia Tarantola) (2001).
+</li>
+
+<li class="list-group-item">
+<a href="http://www.stats.bris.ac.uk/~peter/slides/ion4.ps"><b>Model determination and the analysis of heterogeneity in complex biomedical systems</b></a>&nbsp;(with Matthew Hodgson). Invited lecture at the International Biometrics Congress, Cape Town, December 1998.
+</li>
+
+<li class="list-group-item">
+<a href="http://www.stats.bris.ac.uk/~peter/papers/GiudiciGreen.pdf"><b>Decomposable graphical Gaussian model determination</b></a>&nbsp;(with Paolo Giudici). Revised February 1999.&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/abstracts/giugre.html">Abstract</a>.&nbsp;<i>Biometrika</i>,&nbsp;<b>86</b>, 785-801 (1999).
+</li>
+
+<li class="list-group-item">
+<a href="http://www.stats.bris.ac.uk/~peter/papers/markov2.ps"><b>Investigating Markov model discrimination for ion channels</b></a>&nbsp;(with Matthew Hodgson). This has appeared in&nbsp;<a href="http://www.journals.royalsoc.ac.uk/content/5xl5tlq305jnk450/?p=d20eb43086d54d10bbd773cc0a485b82&amp;pi=13"><i>Proceedings of the Royal Society of London (A)</i>,<b>455</b>, 3425-3448</a>&nbsp;(1999) as '<b>Bayesian choice among Markov models of ion channels using Markov chain Monte Carlo</b>'. doi:10.1098/rspa.1999.0459
+</li>
+
+<li class="list-group-item">
+<b>Boundary detection through dynamic polygons</b>&nbsp;(with Antonio Pievatolo (Milano)).&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/abstracts/poly.html">Abstract</a>. (Revision of an earlier technical report entitled "Object recognition through dynamic polygons").&nbsp;<em>Journal of the Royal Statistical Society</em>, B,&nbsp;<b>60</b>, 609-626 (1998).
+</li>
+
+<li class="list-group-item">
+<b>Markov chain Monte Carlo in image analysis</b>, chapter 21 (pp. 381--399) of<em>Markov chain Monte Carlo in Practice</em>, W. Gilks, S. Richardson and D. J. Spiegelhalter, eds. Chapman and Hall, London (1996).
+</li>
+
+<hr><h4>Mixture analysis and related models</h4><a name="Mix"></a><ul class="list-group">
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/ScacciaGreen.pdf"><b>Bayesian growth curves using normal mixtures with nonparametric weights</b></a>(with Luisa Scaccia, as revised 19 February 2002);&nbsp;<i>Journal of Computational and Graphical Statistics</i>,&nbsp;<b>12</b>, 308-331 (2003).
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/fgrev.ps"><b>Modelling spatially correlated data via mixtures: a Bayesian approach</b></a>&nbsp;(with Carmen Fern?ndez, revised January 2002) [4 Mbytes];&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/abstracts/fgla.html">Abstract</a>&nbsp;<i>Journal of the Royal Statistical Society: Series B</i>,&nbsp;<b>64</b>, 805-826 (2002). doi: 10.1111/1467-9868.00362
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/asatm-01209r1.pdf"><b>Hidden Markov models for disease mapping</b></a>&nbsp;(with Sylvia Richardson);&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/abstracts/smixfinalRP.html">Abstract</a>doi:10.1198/016214502388618870 (this is the final version of the following paper)
+</li>
+
+<li class="list-group-item">
+<b>Spatially correlated allocation models for count data</b>&nbsp;(with Sylvia Richardson);<a href="https://people.maths.bris.ac.uk/~mapjg/abstracts/smix.html">Abstract</a>
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/slides/ottawa.ps"><b>Bayesian analysis of heterogeneity, using mixtures and related models&nbsp;</b></a>; lecture given at the 2000 conference of the Statistical Society of Canada, Ottawa, June 2000.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/MeasError.pdf"><b>Mixture models in measurement error problems, with reference to epidemiological studies</b></a>&nbsp;(with Sylvia Richardson, Laurent Leblond and Isabelle Jaussent).&nbsp;<i>J. Roy. Statist. Soc. A</i>,&nbsp;<b>165</b>, 549-566 (2002).
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/poisjns2.ps"><b>Bayesian analysis of Poisson mixtures</b></a>&nbsp;(with Valerie Viallefont and Sylvia Richardson);&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/abstracts/poismix.html">Abstract</a>
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/MixedEffects.pdf"><b>Using Gaussian mixtures with unknown number of components for mixed model estimation</b></a>&nbsp;(with L. Watier and S. Richardson). In the proceedings of the 14th International Workshop on Statistical Modelling, Graz (Austria) July 1999, pp.394-401;
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/beshig.ps"><b>Contribution to discussion</b>&nbsp;of paper by Besag and Higdon</a>&nbsp;on Bayesian analysis of agricultural field experiments, (with Carmen Fern?ndez).
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/GreenRichardson-SJS.pdf"><b>Modelling heterogeneity with and without the Dirichlet process</b></a>, (with Sylvia Richardson (INSERM, Paris));&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/abstracts/dpp.html">Abstract</a>. Now published in the&nbsp;<a href="http://www.blackwell-synergy.com/links/doi/10.1111%2F1467-9469.00242"><i>Scandinavian Journal of Statistics</i>,&nbsp;<b>28</b>, 355-375</a>&nbsp;(2001). doi:10.1111/1467-9469.00242
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/NobileGreen.pdf"><b>Bayesian analysis of factorial experiments by mixture modelling</b></a>&nbsp;(with Agostino Nobile);&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/abstracts/anova.html">Abstract</a>.&nbsp;<i>Biometrika</i>,&nbsp;<b>87</b>, 15-35 (2000).
+</li>
+
+<li class="list-group-item">
+<a name="RSSMIX"></a><a href="https://people.maths.bris.ac.uk/~mapjg/papers/RichardsonGreenRSSB.pdf"><b>On Bayesian analysis of mixtures with an unknown number of components</b></a>(with Sylvia Richardson (INSERM, Paris)). Read to the Royal Statistical Society, on 15 January 1997.&nbsp;<em>Journal of the Royal Statistical Society</em>, B,&nbsp;<b>59</b>, 731-792 (1997).<a href="https://people.maths.bris.ac.uk/~mapjg/abstracts/mix.html">Abstract</a>;&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/mixdata">Datasets</a>&nbsp;used in the paper.&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/papers/mixcorrig.pdf">Erratum</a>. Animation, by Claus Brenner, of the MCMC sampler introduced in this paper:&nbsp;[youtube https://www.youtube.com/watch?v=9YxVE1jdSok?feature=player_detailpage]
+<b>Program for this analysis</b>&nbsp;-&nbsp;<a href="http://www.stats.bris.ac.uk/~peter/Nmix/"><b>Nmix</b></a>: Program for Bayesian analysis of univariate normal mixtures by MCMC.
+</li>
+
+<li class="list-group-item">
+<b>Bayesian modelling of heterogeneity: algorithms, mixture models and applications</b>: invited lecture at ISI satellite meeting, Rostock, September 1997, by Sylvia Richardson:&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/slides/rostock4.ps.gz">gzipped A4 sized PostScript</a>.
+</li>
+
+<li class="list-group-item">
+<b>Bayesian mixture estimation</b>: invited lectures at ISBA, Istanbul, August 1997, by Peter Green and Sylvia Richardson:&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/slides/isba_part1.ps.gz">part 1</a>&nbsp;and&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/slides/isba_part2.ps.gz">part 2</a>&nbsp;as gzipped A4 sized PostScript.
+</li>
+
+<hr><h4>Exact sampling</h4><a name="Exact"></a><ul class="list-group">
+
+<li class="list-group-item">
+<b><a href="https://people.maths.bris.ac.uk/~mapjg/papers/GreenMurdochValencia.pdf">Exact sampling for Bayesian inference: towards general purpose algorithms</a></b>(with Duncan Murdoch (Queens University, Canada)). Presented as an invited paper at the 6th Valencia International Meeting on Bayesian Statistics, Alcossebre, Spain, May/June 1998. In&nbsp;<em>Bayesian Statistics 6</em>, ed. J. M Bernardo, et al., pp.301-321, Oxford University Press, 1998.&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/abstracts/valencia.html">Abstract</a>.
+</li>
+
+<li class="list-group-item">
+<b><a href="https://people.maths.bris.ac.uk/~mapjg/papers/MurdochGreenSJS.pdf">Exact sampling from a continuous state space</a></b>&nbsp;(with Duncan Murdoch (Queens University, Canada)).&nbsp;<em>Scandinavian Journal of Statistics</em>,&nbsp;<b>25</b>, 483-502 (1998).<a href="https://people.maths.bris.ac.uk/~mapjg/abstracts/coupling.html">Abstract</a>.
+</li>
+
+<li class="list-group-item">
+<b>Illustrations of non-monotone coupling from the past</b>:&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/papers/CFTPfigs.pdf">all</a>&nbsp;(pdf), or separately:<a href="https://people.maths.bris.ac.uk/~mapjg/papers/b2575x.pdf">random walk Metropolis bisection coupling</a>;&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/papers/normal.pdf">bounded CFTP coupling</a>;&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/papers/toyrej.pdf">rejection coupling</a>;&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/papers/toymulti.pdf">partitioned multigamma coupling</a>.
+</li>
+
+<hr><h4>MCMC methodology</h4><a name="MCMC"></a><ul class="list-group">
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/HastieGreenR1.pdf"><b>Model choice using reversible jump Markov chain Monte Carlo</b></a>, by David Hastie and Peter J. Green.&nbsp;<i>Statistica Neerlandica</i>,&nbsp;<b>66</b>, 309-338. doi:10.1111/j.0039-0402.2011.00516.x
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/FreeEnergyV9.pdf"><b>Free energy biased sampling and mixture modelling</b></a>, discussion of paper by Nicolas Chopin and Pierre Jacob, Valencia 9.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/rjmcmc_20090613.pdf"><b>Reversible jump MCMC</b></a>, by David Hastie and Peter Green. June 2009.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/SAMSI"><b>Tutorial on trans-dimensional MCMC</b></a>
+</li>
+
+<li class="list-group-item">
+<b>Trans-dimensional Markov chain Monte Carlo</b>, chapter for the book on Highly Structured Stochastic Systems, with discussion by Simon Godsill and Juha Heikkinen, to be published by OUP in 2003, in&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/papers/hssschapter.ps">PostScript</a>. and&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/papers/hssschapter.pdf">PDF</a>.&nbsp;<a href="http://www.stats.bris.ac.uk/~peter/papers/TransdimensionalMCMC-Luminy.pdf">Early version</a>&nbsp;as presented at a workshop in Luminy in 2000.
+<b>Program for the automated RJ sampler in this paper</b>&nbsp;-&nbsp;<a href="http://www.stats.bris.ac.uk/~peter/AutoRJ/"><b>AutoRJ</b></a>: Program for reversible jump MCMC.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/BGR.pdf"><b>Contribution to discussion</b>&nbsp;of paper by Brooks, Giudici and Roberts</a>&nbsp;on Efficient construction of reversible jump MCMC proposal distributions [PDF].
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/delayed2.ps"><b>Delayed rejection in reversible jump Metropolis-Hastings</b></a>&nbsp;(with Antonietta Mira (Varese)) [PS].&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/abstracts/delayed.html">Abstract</a>.
+</li>
+
+<li class="list-group-item">
+<b>MCMC in action: a tutorial</b>&nbsp;given at ISI, Helsinki, August 1999: handout in<a href="https://people.maths.bris.ac.uk/~mapjg/papers/isi.ps">PostScript</a>&nbsp;and&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/papers/isi.pdf">PDF</a>.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/slides/rss98.ps"><b>MCMC in statistics - interpretations and explanations</b></a>: closing lecture given at RSS 98 conference, Strathclyde, September 1998 [PS].
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/slides/summer4.ps"><b>Tutorial lectures on MCMC</b></a>&nbsp;given at HSSS/TMR summer school on MCMC, Rebild, August 1998 [PS].
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/slides/warwick4.ps"><b>Tutorial lectures on MCMC</b></a>&nbsp;given at WRASS workshop and tutorial, Warwick, July 1998 [PS].
+</li>
+
+<li class="list-group-item">
+<b>Statistical problems where the parameter dimension varies: MCMC theory and some applications</b>. Handout for an IMS special invited lecture, Memphis, March 1997.&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/slides/mem.a4.1401.ps.gz">gzipped A4 size PostScript</a>;&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/slides/mem.letter.3006.ps.gz">gzipped Letter size PostScript</a>.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/GreenOHagan.pdf"><b>Model choice with MCMC on product spaces withot using pseudo-priors</b></a>, by Peter Green and Tony O'Hagan. Nottingham University technical report.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/RJMCMCBka.pdf"><b>Reversible jump Markov chain Monte Carlo computation and Bayesian model determination</b></a>,&nbsp;<em>Biometrika</em>,&nbsp;<b>82</b>, 711-732 (1995).&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/abstracts/revjump.html">Abstract</a>.
+<b>Program for the change point analysis in this paper</b>&nbsp;-&nbsp;<a href="http://www.stats.bris.ac.uk/~peter/Cpt/"><b>Cpt</b></a>: Program for Bayesian multiple change point analysis for point processes.
+</li>
+
+<li class="list-group-item">
+<b><a href="https://people.maths.bris.ac.uk/~mapjg/papers/BGHM.pdf">Bayesian computation and stochastic systems</a></b>, (with J. Besag, D. Higdon and K. Mengersen),&nbsp;<em>Statistical Science</em>,&nbsp;<b>10</b>, 3-41. With discussion (41-59) and rejoinder (59-66) (1995). 4.5Mb.&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/papers/BGHMDiscussion/Discussion.pdf">Discussion</a>.&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/abstracts/statsci.html">Abstract</a>.
+</li>
+
+<li class="list-group-item">
+<b>Overview: Monte Carlo methods</b>. In&nbsp;<em>Complex Stochastic Systems and Engineering</em>, (ed. D. M. Titterington), IMA Conference Series No. 54, 183--190. Oxford Univ. Press (1995).
+</li>
+
+<li class="list-group-item">
+<b><a href="https://people.maths.bris.ac.uk/~mapjg/papers/BesagGreenRSSB93.pdf">Spatial Statistics and Bayesian Computation</a></b> by Julian Besag and Peter Green. <i>J. R. Statist. Soc. B</i> (1993) <b>55</b>, pp.25-37
+</li>
+
+<hr><h4>Smoothing</h4><a name="Smooth"></a><ul class="list-group">
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/BeyondMeanRegressionDiscussion.pdf"><b>Discussion of `Beyond mean regression'</b>&nbsp;by Thomas Kneib</a>.&nbsp;<i>Statistical Modelling</i>(2013) 13: 305-315. DOI: 10.1177/1471082X13494160
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/backfit.ps"><b>Contribution to discussion</b>&nbsp;of paper by Hastie and Tibshirani</a>&nbsp;on Bayesian backfitting, to appear in&nbsp;<em>Statistical Science</em>&nbsp;(scheduled August 2000).
+</li>
+
+<li class="list-group-item">
+<b>Semiparametric quantile regression using the gamma distribution</b>&nbsp;(with A. Lopatatzidis).&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/abstracts/lmsgamma.html">Abstract</a>.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/verbyla.pdf"><b>Contribution to discussion</b>&nbsp;of paper by Verbyla,&nbsp;<i>et. al.</i></a>&nbsp;on The analysis of designed experiments and longitudinal data by using smoothing splines (<em>Applied Statistics</em>,&nbsp;<b>48</b>, 269-311, (1999)).
+</li>
+
+<li class="list-group-item">
+<a href="http://www.nr.no/~frigessi/dfg.ps"><b>Penalized pseudolikelihood inference in spatial interaction models with covariates</b></a>&nbsp;(with Arnoldo Frigessi and Fabio Divino). To appear in the&nbsp;<em>Scandinavian Journal of Statistics</em>.
+</li>
+
+<li class="list-group-item">
+<a href="http://www.stats.bris.ac.uk/pub/reports/SMOOTH/ess.ps.gz"><b>Penalized likelihood</b></a>. Encyclopaedia of Statistical Sciences, update volume,&nbsp;<b>3</b>, 578-586 (1999).&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/abstracts/penlik.html">Abstract</a>.
+</li>
+
+<li class="list-group-item">
+<b>Nonparametric regression and generalized linear models: a roughness penalty approach</b>&nbsp;(with B. W. Silverman), x+182 pp., Chapman and Hall, London (1994).&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/papers/errata.txt">Errata</a>.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/handout.ps"><b>Handout</b></a>&nbsp;on penalised likelihood in nonstandard regression problems, used at the Exeter (IWSM, July 1994) and Toronto (IMS, August 1994) conferences.
+</li>
+
+<li class="list-group-item">
+<a href="http://www.stats.bris.ac.uk/~peter/papers/green_isr_87.pdf"><b>Penalized likelihood for general semi-parametric regression models</b></a>. International Statistical Review,&nbsp;<b>55</b>, 245-259 (1987).
+</li>
+
+<li class="list-group-item">
+<a href="http://www.stats.bris.ac.uk/~mapjg/papers/GreenBiometrika1985.pdf"><strong>Linear models for field trials, smoothing and cross-validation</strong></a>. <em>Biometrika</em>, <strong>72</strong>, 527-537 (1985).
+</li>
+
+<hr><h4>Other work</h4><a name="Other"></a><ul class="list-group">
+
+<li class="list-group-item">
+<b>Obituary : Julian Besag, FRS, 1945-2010.</b>&nbsp;by Diggle, Peter and Green, P J (2011).<i>Journal of the Royal Statistical Society, Series A,</i>&nbsp;<b>174</b>&nbsp;(2). pp. 502-504.
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/PresAddress.pdf"><b>Diversities of gifts, but the same spirit</b></a>&nbsp;(RSS Presidential address, 18 June 2003);&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/slides/PresAddress.pps">Powerpoint show</a>;&nbsp;<a href="https://people.maths.bris.ac.uk/~mapjg/abstracts/PresAddress.html">Abstract</a>;&nbsp;<i>Journal of the Royal Statistical Society (D)</i>,&nbsp;<b>52</b>, 423-438 (2003).
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/PR"><b>Spatial processes and statistical modelling</b></a>, lecture given at IMS/ISBA meeting, Puerto Rico, 24 July 2003.
+</li>
+
+<li class="list-group-item">
+<b>Bayesian network management</b>&nbsp;(with Ayalvadi Ganesh, Neil O'Connell and Susan Pitts).&nbsp;<em>Queueing systems</em>,&nbsp;<b>28</b>, 267-282 (1998).
+</li>
+
+<li class="list-group-item">
+<a href="http://www.stats.bris.ac.uk/~peter/papers/spect-TMI90.pdf"><b>Bayesian reconstructions from emission tomography data using a modified EM algorithm.</b></a>&nbsp;<i>IEEE Transactions on Medical Imaging</i>,&nbsp;<b>9</b>, 84-93, (1990).
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/GreenTitteringtonISI1988.pdf"><b>Recursive methods in image processing</b></a>, by P. J. Green and D. M. Titterington,&nbsp;<i>Bulletin of the ISI</i>, LII-4, 51-67 (discussion pp. 95-102), (1988). (Invited paper 22.1, Tokyo session of the ISI).
+</li>
+
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/papers/IRLS.pdf"><b>Iteratively Reweighted Least Squares for Maximum Likelihood Estimation, and some Robust and Resistant Alternatives</b></a>. Read to the Royal Statistical Society, on 7 December 1983&nbsp;<em>Journal of the Royal Statistical Society</em>, B,&nbsp;<b>46</b>, 149-192 (1984).
+</li>
+
+<li class="list-group-item">
+<a href="http://www.guardian.co.uk/notesandqueries/query/0,,-1244,00.html"><b>How can I weigh my head?</b></a>&nbsp;Contribution to the Guardian Notes and Queries column. Reprinted 17 November 2004, with 'Michael Watson' replaced by 'Mike Tyson'.
+</li>
+
+<h4>Recently completed reports and papers - not yet published</h4>
+
+<ul class="list-group">
+<li class="list-group-item">
+<a href="https://people.maths.bris.ac.uk/~mapjg/KinMix/LouAnalNEW.pdf">
+</a><a href="https://arxiv.org/pdf/1707.08538.pdf"><b>On the "Poisson Trick" and its Extensions for Fitting Multinomial Regression Models</b></a>, by Jarod Y.L. Lee, Peter J. Green, Louise M. Ryan (2017) (pdf). On ArXiv:&nbsp;<a href="http://arxiv.org/abs/1707.08538">http://arxiv.org/abs/1707.08538</a>.
+</li>
+
+<li class="list-group-item">
+<a href="http://arxiv.org/abs/1110.3015"><b>Consistency and efficiency of Bayesian estimators in generalised linear inverse problems</b></a>, by Natalia Bochkina and Peter J. Green (2012). On ArXiv:&nbsp;<a href="http://arxiv.org/abs/1110.3015">http://arxiv.org/abs/1110.3015</a>.
+<li>
+</ul>
+
+
+<hr>
+
+<b>Some earlier reports</b>&nbsp;by Peter Green, and co-authors:
+<ul>
+ 	<li><a href="http://www.stats.bris.ac.uk/~peter/oldMCMC/">Markov chain Monte Carlo</a></li>
+ 	<li><a href="http://www.stats.bris.ac.uk/~peter/TOMO">Tomography</a></li>
+</ul>
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
+
+</div>
+
+  </body>
+</html>

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Peter Green Bootstrap 9</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+  </head>
+
+  <body>
+
+<div class="container-fluid">
+
+<div class="page-header">
+  <h1>Nmix</h1>
+</div>
+
+<img src="../images/nmixplots.webp" width=40%>
+
+<p>Back to <a href="../../index.html">Home</a> | <a href="../../research.html">Research</a> | <a href="../software.html">Software</a> </p>
+
+<p>
+Virtually all of the functionality of the Nmix Fortran program (which dates from about 1996) is now available as an R package, downloadable here and from CRAN. Documentation on using the package here, and in the package manual pages, is limited, so for more detail please consult <a href="https://people.maths.bris.ac.uk/~mapjg/Nmix/">https://people.maths.bris.ac.uk/~mapjg/Nmix/</a> and the 
+Richardson and Green <a href="https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/1467-9868.00095">RSS paper</a>
+at J. R. Statist. Soc. B, 1997, 59, 731-792; see also the <a href="https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/1467-9868.00146">correction</a> at J. R. Statist. Soc. B, 1998, 60, 661.
+</p><p>
+<strong>To install</strong> Nmix, use <b><code>install.packages('Nmix')</code></b>, or go to CRAN explicitly at 
+<a href="https://cran.r-project.org/package=Nmix">https://cran.r-project.org/package=Nmix</a>.
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
+
+</div>
+
+  </body>
+</html>

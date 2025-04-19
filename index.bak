@@ -17,7 +17,7 @@
   <h1>Peter Green's homepage</h1>
 </div>
 
-<img src="images/dsc02576-001.webp" width=40%>
+<img src="images/dsc02576-001.webp" width=100%>
 
   <div class="row">
 
@@ -45,7 +45,7 @@ My ORCID is 0000-0002-4367-4756
   <div class="col-lg-5">
 <p>Links to my work and outside activities</p>
 <ul>
-<li><a href="subs/research.html">Research</a></li>
+<li><a href="research.html">Research</a></li>
 <li><a href="subs/papers.html">Papers</a></li>
 <li><a href="subs/software.html">Software</a></li>
 <li><a href="subs/gRaven.html">gRaven</a></li>
@@ -53,10 +53,10 @@ My ORCID is 0000-0002-4367-4756
 <li><a href="subs/travels.html">Travels</a></li>
 </ul>
 <ul>
-<li><a href="subs/links.html">Other links</a></li>
+<li><a href="links.html">Other links</a></li>
 </ul>
 
-
+<a href="https://petergreenweb.wordpress.com/contact/">Contact form</a>
 
 <a href="https://petergreenweb.wordpress.com/">My Wordpress site</a>.
 

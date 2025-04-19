@@ -19,7 +19,7 @@
 
 <p><img src="../images/grappalogo.jpg" width=40%></p>
 
-<p>Back to <a href="../index.html">Home</a> | <a href="./research.html">Research</a> | <a href="./software.html">Software</a> </p>
+<p>Back to <a href="../../index.html">Home</a> | <a href="../../research.html">Research</a> | <a href="../software.html">Software</a> </p>
 
 <p>
 A simple R package for probability propagation in discrete graphical models.

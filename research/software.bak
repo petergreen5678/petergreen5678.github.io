@@ -16,10 +16,10 @@
 <div class="page-header">
   <h1>Software</h1>
 </div>
-<p>Back to <a href="../index.html">Home</a> | <a href="./research.html">Research</a> </p>
+<p>Back to <a href="../index.html">Home</a> | <a href="../research.html">Research</a> </p>
 
 <ul>
- 	<li><strong><a href="./gRaven.html">gRaven</a></strong>: Bayes nets R package emulating RHugin, providing much of the functionality of that package but, using gRain instead of Hugin as the BN engine</li>
+ 	<li><strong><a href="./software/gRaven.html">gRaven</a></strong>: Bayes nets R package emulating RHugin, providing much of the functionality of that package but, using gRain instead of Hugin as the BN engine</li>
  	<li><strong><a href="./kinmix.html">KinMix</a></strong> and <strong><a href="./kinmix.html#KML">KinMixLite</a></strong>: R packages for inference about relationships in DNA mixtures</li>
  	<li><a href="./grappa.html"><strong>Grappa</strong></a>: a simple free-standing package for probability propagation in discrete graphical models</li>
  	<li><a href="http://www.stats.bris.ac.uk/~peter/AutoRJ/"><strong>AutoRJ</strong></a>: Program for reversible jump MCMC</li>
