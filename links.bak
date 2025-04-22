@@ -4,23 +4,23 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Peter Green's Homepage</title>
+    <title>Peter Green Links</title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
   </head>
 
   <body>
 
-<div class="container-fluid">
+<div class="container-sm">
 
 <div class="page-header">
   <h1>Links</h1>
 </div>
 
-<p>Back to <a href="../index.html">Home</a> </p>
+<p>Back to <a href="./index.html">Home</a> </p>
 
 <h5><span style="color:#0000ff">Bristol:</span></h5>
-<ul class="list-group">
+<ul class="list-group" style="list-style-type:none;">
 
 <li class="list-group-item">
 <a href="http://www.bris.ac.uk/">University of Bristol&nbsp;</a>|&nbsp;<a href="http://www.bristol.ac.uk/maths/">School of Mathematics</a>&nbsp;|&nbsp;<a href="https://www.bristolmathsresearch.org/statistical-science/">Institute of Statistical Science</a>
@@ -49,10 +49,13 @@
 <li class="list-group-item">
 <a href="http://www.bristol.ac.uk/is/library/ejournals" target="_blank" rel="noopener">eJournals</a>&nbsp;|&nbsp;<a href="http://www.jstor.org/" target="_blank" rel="noopener">JStor</a>
 </li>
+</ul>
 
 <img class="alignleft" src="https://people.maths.bris.ac.uk/~mapjg/images/coupling.png" width="379" height="339">
 
 <h5><span style="color:#0000ff">The wider statistics world:</span></h5>
+<ul class="list-group" style="list-style-type:none;">
+
 <li class="list-group-item">
 <a href="http://projecteuclid.org/all/euclid.ss" target="_blank" rel="noopener">Statistic</a><a href="http://projecteuclid.org/all/euclid.ss" target="_blank" rel="noopener">al Science</a>
 </li>
@@ -80,6 +83,7 @@
 <li class="list-group-item">
 <a href="http://www.copstat.ac.uk/" target="_blank" rel="noopener">Committee of Professors of Statistics</a>
 </li>
+</ul>
 
 </div>
 
