@@ -24,10 +24,23 @@ table {
   <h1>Travels</h1>
 </div>
 
-<img src="https://petergreen5678.github.io/images/travels.webp" width=100%>
+<img src="../images/chania.jpg" width=100%>
 <br><br>
 <table width="100%" cellspacing="10">
 <tbody>
+<tr>
+<td align="right" width="50%"><a href="https://photos.app.goo.gl/WDruq1w5PGuruRMA9">Velo Francette</a></td>
+<td align="left">June 2025</td>
+</tr>
+<tr>
+<td align="right" width="50%"><a href="https://photos.app.goo.gl/PqrN36yR9SqG6CqE8">Scotland</a></td>
+<td align="left">May 2025</td>
+</tr>
+<tr>
+<td align="right" width="50%"><a href=https://photos.app.goo.gl/b1uHKbXKt1VVxxVs8">Madeira</a></td>
+<td align="left">January 2025</td>
+</tr>
+
 <tr>
 <td align="right" width="50%"><a href="https://photos.app.goo.gl/2XEzwBg2Rb7D7AUm8">Crete</a></td>
 <td align="left">October/November 2024</td>

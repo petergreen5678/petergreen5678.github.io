@@ -32,8 +32,8 @@
 <td class="align-top" width="50%">
 Install:
 R
-Rtools toolchain (Windows only)
-Hugin Expert
+Rtools toolchain (Windows only),
+Hugin Expert,
 and then within R install packages as follows:</td>
 <td class="align-top"></td>
 </tr>
